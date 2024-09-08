@@ -53,3 +53,14 @@ The objective of this task is to learn about the stages of developing a machine 
 Using scikit learn, you were able to develop a machine learning model that classified emails into two categories. First, you had to preprocess the dataset so that it was in a format that the model could be trained on. Then, you selected the appropriate classifier for the task at hand. Then, you analyzed a variety of statistics to see how well the model performed. Finally, you looked under the cover of the machine learning model to see what it had learned.
 
 Estimated time for task completion: 1 hour depending on your learning style.
+
+## Task4
+
+For the fourth module of this project, you will need to accomplish the following:
+
+Set up your system by downloading the necessary files, tools and dependencies.
+Complete a coding exercise that simulates a system that manages user roles.
+If you have time, review the reference material below in Additional Resources.
+You are now ready to work on the coding challenge. The requirements and skeleton are available in task4.py. You will be uploading this file when you are done.
+
+Estimated time for task completion: 1 hour depending on your learning style.
